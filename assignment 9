@@ -1,0 +1,106 @@
+.body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0px auto;
+    padding: 10px;
+  }
+.article {
+  max-width: 1200px;
+  margin-top: 75px;
+  margin-left: 200px;
+  margin-right: 500px;
+  margin-bottom: 100px;
+}  
+.site-banner {
+  background-color: black;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 8px;
+}
+.logo {
+  width: 188px;
+}
+.story-header {
+  font-size: 46px;
+  margin-bottom: 0;
+  font-weight: normal;
+
+}
+.story-deck {
+ height: 20px; 
+}
+.story-byline {
+  height: 16px;
+  margin-bottom: 2px;
+
+}
+.story-body {
+  font-size: 20px;
+  line-height: 32px;
+  max-width: 700px;
+}
+.story-footer {
+  font-size: 28px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e9e9e9;
+
+}
+  .source-info {
+    background-color: darkgray;
+    font-size: 18px;
+    margin: 0px 0px 15px 0px;
+    border: black solid 2px;
+    padding: 10px;
+  }
+  
+  .img {
+    width: 100%;
+    color: #666666;
+    font-size: 14px;
+    margin-top: 0;
+    line-height: 18px;
+  }
+  .img {
+    width: 100%;
+    color: #666666;
+    font-size: 14px;
+    margin-top: 0;
+    line-height: 18px;
+  }
+  
+  .lead-caption {
+    font-size: 14px;
+    margin: 5px 0px;
+    line-height: 14px;
+  }
+  
+  .h1 {
+    font-style: italic;
+    font-size: 40px;
+  }
+  
+  .h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  
+  .p {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  .photo {
+    width: 100%;
+  }
+  
+  .other-image {
+    max-width: 600px;
+    display: block;
+    margin: 30px auto 5px auto;
+  }
+  
+  .other-caption {
+    font-size: 14px;
+    line-height: 14px;
+    max-width: 600px;
+    margin: 5px auto;
+  }
